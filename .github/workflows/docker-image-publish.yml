@@ -18,7 +18,7 @@ jobs:
         # Container registry username
         username: z.fasnacht@gmail.com
         # Container registry password
-        password: ${{ secrets.SAMPLEAPP_ACR_PASSWORD }}
+        password: Hally#12
         # Container registry server url
         login-server: sampleappaoaichatgpt.azurecr.io
         
